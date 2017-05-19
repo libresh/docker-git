@@ -1,2 +1,2 @@
 # docker-git
-Docker iamge for git
+Docker image for git
